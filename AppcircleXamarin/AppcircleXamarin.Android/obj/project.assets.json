@@ -2142,39 +2142,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\burak\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/burakyildirim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj",
+      "projectUniqueName": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj",
       "projectName": "AppcircleXamarin.Android",
-      "projectPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj",
-      "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\obj\\",
+      "projectPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj",
+      "packagesPath": "/Users/burakyildirim/.nuget/packages/",
+      "outputPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/burakyildirim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj": {
-              "projectPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj"
+            "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj": {
+              "projectPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj"
             }
           }
         }

@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj": {}
+    "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj": {
+    "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj",
+        "projectUniqueName": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj",
         "projectName": "AppcircleXamarin.Android",
-        "projectPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\AppcircleXamarin.Android.csproj",
-        "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin.Android\\obj\\",
+        "projectPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/AppcircleXamarin.Android.csproj",
+        "packagesPath": "/Users/burakyildirim/.nuget/packages/",
+        "outputPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid11.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj": {
-                "projectPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj"
+              "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj": {
+                "projectPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj"
               }
             }
           }
@@ -54,28 +48,22 @@
         }
       }
     },
-    "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj": {
+    "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj",
+        "projectUniqueName": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj",
         "projectName": "AppcircleXamarin",
-        "projectPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\AppcircleXamarin.csproj",
-        "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\xamarin-sample\\AppcircleXamarin\\AppcircleXamarin\\obj\\",
+        "projectPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/AppcircleXamarin.csproj",
+        "packagesPath": "/Users/burakyildirim/.nuget/packages/",
+        "outputPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +107,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
         }
       }
     }
