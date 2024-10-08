@@ -15,7 +15,7 @@
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid11.0"
@@ -58,7 +58,7 @@
         "outputPath": "/Users/burakyildirim/Repository/xamarin-sample/AppcircleXamarin/AppcircleXamarin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/burakyildirim/.config/NuGet/NuGet.Config"
+          "/Users/burakyildirim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
